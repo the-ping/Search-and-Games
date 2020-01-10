@@ -1,6 +1,6 @@
-# inf2d-cw1
+# inf2d-cw1-Search-and-Games
 **Course:**
-Informatics 2D: Reasoning and Agents
+Informatics 2D: Reasoning and Agents (Coursework 1 of 2)
 
 **Objective:** 
 Implemented different search strategies/heuristics for the robot to reach the goal destination. 
